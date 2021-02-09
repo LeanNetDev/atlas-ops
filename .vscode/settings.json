@@ -3,5 +3,6 @@
   "vetur.format.enable": false,
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "vue"],
   "typescript.tsdk": "node_modules/typescript/lib",
-  "vetur.experimental.templateInterpolationService": true
+  "vetur.experimental.templateInterpolationService": true,
+  "python.pythonPath": "/home/szzz/.cache/pypoetry/virtualenvs/atlas-ops-server-3INVYyjS-py3.8/bin/python"
 }
